@@ -1,0 +1,64 @@
+.ok{
+    height: 500px;
+    background-image:url(images.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.con{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 230px;
+    background-color: rgba(0, 0, 0, 0.59);
+    color: white;
+   
+    font-size: 40px;
+    gap: 30px;
+}
+.gids{
+    display: flex;
+    justify-content: center;
+    gap: 400px;
+}
+
+.main{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu{
+    height: 100;
+
+}
+
+.main a{
+    color: white;
+}
+
+.kk{
+    color: tomato;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+footer{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+.ice{
+    display: flex;
+    gap: 150px;
+
+}
+*{
+    list-style: none;
+    text-decoration: none;
+}
