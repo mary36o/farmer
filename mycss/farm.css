@@ -74,6 +74,8 @@ footer{
     background-color: black;
     height: 300px;
     color: white;
+    display: flex;
+    justify-content: space-around;
 }
 .ice{
     display: flex;
