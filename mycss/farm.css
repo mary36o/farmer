@@ -80,8 +80,12 @@ footer{
 .ice{
     display: flex;
     gap: 150px;
-
+    margin-top: 60px;
+    font-size: 20px;
+     margin-left: 30px;
 }
+
 *{
     list-style: none;
 }
+
