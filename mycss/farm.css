@@ -46,6 +46,9 @@ body{
 .stars{
     justify-content: center;
     display: flex;
+    gap: 55px;
+    margin-bottom: 40px;
+    margin-top: 40px;
     width: 100%;
 }
 .mum2{
@@ -69,8 +72,9 @@ body{
 .starss{
     justify-content: center;
     display: flex;
-    width: 100%;
-    margin-left: 40px;
+    gap: 55px;
+    margin-bottom: 40px;
+   
 }
 footer{
     background-color: black;
@@ -99,7 +103,9 @@ footer{
 
  .content{
     background-color: black;
-   overflow-y: hidden;
+     overflow-y: hidden;
+     margin: 10px;
+     padding: 10px;
  }
  .menu{
     background-color: black;
@@ -150,3 +156,7 @@ footer{
 .fith input ::placeholder{
     color: white;
 } */
+
+.images{
+    width: 800px;
+}
