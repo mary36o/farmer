@@ -60,6 +60,28 @@
     color: white;
 }
 
+.first_content ul li{
+    font-size: 15px;
+    line-height: 30px;
+    
+}
+
+.first_content ul li a{
+   color: antiquewhite;
+    
+}
+
+.first_content h2{
+   
+    font-size: 20px;
+ }
+
+ .content{
+    background-color: black;
+     overflow-y: hidden;
+     margin: 10px;
+     padding: 10px;
+ }
 
 footer{
     background-color: black;
