@@ -2,6 +2,7 @@
     text-decoration: none;
     margin: 0px;
     padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .main{
@@ -12,6 +13,7 @@
 }
 .menu{
     height: 100;
+    background-color: aqua;
 
 }
 
@@ -20,7 +22,7 @@
 }
 
 body{
-    background-image: url(../images/depositphotos.jpg);
+    background-image: url(../images/agric.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -72,11 +74,36 @@ body{
 }
 footer{
     background-color: black;
-    height: 300px;
     color: white;
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
 }
+
+.first_content ul li{
+    font-size: 15px;
+    line-height: 30px;
+    
+}
+
+.first_content ul li a{
+   color: antiquewhite;
+    
+}
+
+.first_content h2{
+   
+    font-size: 20px;
+ }
+
+ .content{
+    background-color: black;
+   overflow-y: hidden;
+ }
+ .menu{
+    background-color: black;
+ }
 .ice{
     display: flex;
     gap: 150px;
@@ -89,3 +116,37 @@ footer{
     list-style: none;
 }
 
+
+.second_content{
+    margin-bottom: 60px;
+     font-size: 15px;
+     font-family: cursive;
+}
+.third_content{
+    font-family: cursive;
+}
+.fourth_content{
+    margin-top: 60px;
+}
+.footer_content{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: white;
+    padding:20px
+
+
+}
+
+.fith button{
+    background-color: blue;
+
+}
+/* .fith input{
+    background-color: transparent;
+}
+.fith input ::placeholder{
+    color: white;
+} */

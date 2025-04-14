@@ -67,3 +67,27 @@ footer{
     padding: 0px;
     list-style: none;
 }
+
+
+.second_content{
+    margin-bottom: 60px;
+     font-size: 15px;
+     font-family: cursive;
+}
+.third_content{
+    font-family: cursive;
+}
+.fourth_content{
+    margin-top: 60px;
+}
+.footer_content{
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+    margin-top: 20px;
+}
+
+.fith button{
+    background-color: blue;
+
+}
