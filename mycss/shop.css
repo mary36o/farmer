@@ -61,8 +61,10 @@
 }
 
 .first_content ul li{
-    font-size: 15px;
+    font-size: 20px;
     line-height: 30px;
+    
+    
     
 }
 
@@ -89,6 +91,8 @@ footer{
     color: white;
     display: flex;
     justify-content: space-around;
+    padding: 30px;
+    
 }
 .ice{
     display: flex;

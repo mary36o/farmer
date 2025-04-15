@@ -44,6 +44,7 @@ footer{
     background-color: black;
     height: 300px;
     color: white;
+    padding: 30px;
 }
 .ice{
     display: flex;
@@ -85,7 +86,7 @@ footer{
 }
 
 .first_content ul li{
-    font-size: 15px;
+    font-size: 20px;
     line-height: 30px;
     
 }
