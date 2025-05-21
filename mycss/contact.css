@@ -9,6 +9,33 @@
     justify-content: center;
     font-size: 40px;
 }
+
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.main{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.menu{
+    height: 100;
+
+}
+
+.kk{
+    color: tomato;
+    font-size: 20px;
+    padding: 10px;
+}
+
+/* 
 fieldset{
     display: flex;
     flex-direction: column;
@@ -44,8 +71,7 @@ fieldset{
 .kk{
     color: tomato;
     font-size: 20px;
-    padding: 10px;
-}
+    padding: 10px; */
 
 
 footer{
@@ -53,6 +79,7 @@ footer{
     height: 200px;
     color: white;
     padding: 50px;
+   
 }
 .ice{
     display: flex;
@@ -114,3 +141,95 @@ footer{
      margin: 10px;
      padding: 10px;
  }
+
+
+ .form fieldset{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+     text-align: center;
+    gap: 40px;
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+   
+ }
+
+ .section{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 400px;
+    padding: 40px;
+
+    /* margin-top: 100px; */
+
+
+
+    /* position: absolute;
+    left: 50px; */
+ }
+
+ .my{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+ }
+
+ .doo{
+    
+    
+    
+ }
+ .k{
+    /* margin-top: 100px; */
+ 
+
+
+ }
+
+ body{
+    background-color: darkgreen;
+ }
+
+ .our{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 200px;
+    /* position: absolute; */
+    /* bottom: 100px; */
+ }
+
+ .have{
+   margin: 80px;
+    line-height: 60px;
+ }
+
+ .adwoa{
+    margin-bottom: 300px;
+
+ }
+ /* .koo{
+    padding-left: 80px;
+    text-align: center;
+ }
+ .maa{
+    padding-top: 50px;
+    text-align: center;
+ }
+ .ama{
+    padding-right: 50px;
+
+ }
+ .kofi{
+    padding-right: 50px;
+    
+ }
+
+ .just{
+    position: absolute;
+    
+ } */
+
+
